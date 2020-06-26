@@ -1,5 +1,5 @@
 <h1 align="center">
-  A Bruxa Ripsta
+  A Bruxa Hipsta
 </h1>
 
 <h4 align="center">
